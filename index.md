@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Hey there
 
-You can use the [editor on GitHub](https://github.com/sa-areekal/sa-areekal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student in the Department of Biology, IISER Pune, India. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am testing different open source resources to host a personal website. It will be up and running here soon. 
 
-```markdown
+
+
+
+```
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
