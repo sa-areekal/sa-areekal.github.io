@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     date_start: '2019-07-24'
     date_end: '2019-07-24'
-    description: Workshop on Introduction to Machine Learning focused on Applications in Biology for Undergraduate Teachers  
+    description: Workshop on introduction to machine learning focused on applications in biology for undergraduate teachers conducted by the Centre of Excellence in Science and Mathematics Education (CoESME), IISER Pune 
         
   - title: Teaching Assistant - Data science 
     company: IISER Pune
@@ -45,15 +45,16 @@ experience:
     description: Taught undergraduates and first year PhD students
     
   - title: MS Thesis 
-    company: Advisor - Dr. Nishant KT, IISER Thiruvananthapuram
+    company: Advisor - Dr. Nishant KT
     company_url: 'https://www.iisertvm.ac.in/faculty/nishantkt'
+    location: IISER Thiruvananthapuram
     date_start: '2016-08-01'
     date_end: '2017-04-01'
     description: Developing a Graphical User Interface for the analysis of meiotic recombination patterns from whole-genome sequence data.
 
   - title: Internship - Next-Gen Sequence Analysis 
     company: Advisor - Dr. Nishant KT
-    company_url: 'https://www.iisertvm.ac.in/faculty/nishantkt'
+    company_url: ''
     location: IISER Thiruvananthapuram
     date_start: '2016-05-01'
     date_end: '2016-07-01'
