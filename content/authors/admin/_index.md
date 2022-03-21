@@ -19,6 +19,7 @@ interests:
 - Maternal and child health
 - Data science
 - Statistics
+- Mathematical modelling
 # organizations:
 # - name:
 #   url: 

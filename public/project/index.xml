@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sandra Aravind Areekal</title>
+    <link>https://sa-areekal.github.io/project/</link>
+      <atom:link href="https://sa-areekal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sa-areekal.github.io/media/icon_hu6fa6347b02aad06a312b0d30380f5e7f_61316_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://sa-areekal.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://sa-areekal.github.io/project/growht/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sa-areekal.github.io/project/growht/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

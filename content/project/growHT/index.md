@@ -1,5 +1,5 @@
 ---
-date: "2022-04-20T00:00:00Z"
+date: "2022-01-20T00:00:00Z"
 external_link: https://digimed.acads.iiserpune.ac.in/growth-charts
 image:
   caption: ""
