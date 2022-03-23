@@ -63,7 +63,7 @@ experience:
   - title: Internship - Plant Functional Traits - specific leaf area 
     company: Advisor - Dr. Mahesh Sankaran
     company_url: ''
-    location: National Centre for Biological Sciences, Banglore
+    location: National Centre for Biological Sciences, Bangalore
     date_start: '2015-05-01'
     date_end: '2015-07-01'
     
