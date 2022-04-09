@@ -49,7 +49,6 @@ title: Sandra Aravind Areekal
 
 Hey there,
 
-Hey there,
 I am a graduate student working in the [Goel Lab](https://digimed.acads.iiserpune.ac.in/) at IISER Pune under the guidance of [Dr Pranay Goel](https://www.iiserpune.ac.in/research/department/biology/people/faculty/regular-faculty/pranay-goel/271).
 
 I currently study growth processes in Indian children with mentorship from [Dr Anuradha Khadilkar](https://www.researchgate.net/profile/Anuradha-Khadilkar-2), [HCJMRI Pune](https://www.hcjmri.org.in/) and [Prof. Tim J Cole](https://scholar.google.com/citations?user=1P_yQocAAAAJ&hl=en), [UCL GOS ICH](https://www.ucl.ac.uk/child-health/). We have created growth centiles and longitudinal models for height in Indian children aged 6 to 18 years based on data from Pune school-children. They are made available as a web-app [growHT](https://digimed.acads.iiserpune.ac.in/growth-charts).
