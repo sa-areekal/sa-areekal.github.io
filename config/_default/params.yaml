@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sandra.a.aravind@gmail.com
+email: sandra.a.aravind@gmail.com 
 #phone: 
 address:
   street: Department of Biology, IISER Pune
@@ -106,6 +106,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
+plugins_css: ["custom"]
 avatar:
   gravatar: false
   shape: circle
@@ -155,3 +156,4 @@ cms:
 icon:
   pack:
     ai: true
+
