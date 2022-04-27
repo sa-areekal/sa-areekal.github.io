@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Mail 
+#email: Mail 
 #phone: 
 address:
   street: Department of Biology, IISER Pune
@@ -157,5 +157,11 @@ cms:
 icon:
   pack:
     ai: true
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: false    
+
 
 
