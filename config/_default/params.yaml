@@ -46,7 +46,7 @@ contact_links:
     icon_pack: fab
     name: LinkedIn
     link: 'https://www.linkedin.com/in/sandraaravind/'
-  - icon: email
+  - icon: envelope
     icon_pack: fab
     name: Mail
     link: 'sandra.a.aravind@gmail.com'
