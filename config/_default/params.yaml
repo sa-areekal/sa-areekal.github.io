@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sandra.a.aravind@gmail.com 
+email: Mail 
 #phone: 
 address:
   street: Department of Biology, IISER Pune
@@ -46,6 +46,11 @@ contact_links:
     icon_pack: fab
     name: LinkedIn
     link: 'https://www.linkedin.com/in/sandraaravind/'
+  - icon: email
+    icon_pack: fab
+    name: Mail
+    link: 'sandra.a.aravind@gmail.com
+  
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -156,4 +161,9 @@ cms:
 icon:
   pack:
     ai: true
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
 
